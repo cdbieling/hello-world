@@ -1,4 +1,4 @@
-# hello-myworld formerly known as hello hello-world.
+# helo-myworld formerly known as hello hello-world.
 
 Okay, I should write something about myself
 
